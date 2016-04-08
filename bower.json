@@ -1,6 +1,5 @@
 {
-  "name": "xmdd-ui",
-  "private": true,
+  "name": "xmdd-ui"
   "dependencies": {
     "modernizr": "~2.8.1",
     "jquery": "^2.2.0"
