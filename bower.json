@@ -1,0 +1,12 @@
+{
+  "name": "xmdd-ui",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "jquery": "^2.2.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "chai": "~3.4.2"
+  }
+}

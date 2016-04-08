@@ -1,0 +1,7 @@
+node_modules
+.tmp
+.idea
+.editorconfig
+.gitattributes
+bower_components
+test/bower_components

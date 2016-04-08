@@ -1,0 +1,15 @@
+# Meta data
+name:         XMDDUI
+authors:      alphabeta
+description:  Build mobile apps with simple HTML, CSS, and JS components.
+version:      0.1.0
+
+# Dependencies
+highlighter:  rouge
+
+# Permalinks
+permalink:    pretty
+
+# Server
+source:       app/docs
+
